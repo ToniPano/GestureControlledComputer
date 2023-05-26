@@ -1,4 +1,4 @@
 # GestureControlledComputer
 F2020-W2021 Computer Engineering Capstone Project
 
-Archived repository
+Webcam of computer captures hand gestures and translates them into mouse clicks. Mouse tracks movement of hand.
